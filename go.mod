@@ -1,4 +1,4 @@
-module github.com/gogf/gf
+module github.com/xbkaishui/gf
 
 go 1.11
 
